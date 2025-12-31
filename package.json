@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mayankbitw.github.io/abc.io/"
+  "homepage": "https://mayankbitw.github.io/abc.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -64,4 +64,5 @@
     "vite": "^5.4.10"
   }
 }
+
 
